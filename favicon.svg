@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Violet rounded square background -->
+  <rect width="100" height="100" rx="22" fill="#58355E"/>
+  <!-- Tea Green 4-pointed star — distinctive, not Medium's M -->
+  <path d="M50,18 L60,38 L82,50 L60,62 L50,82 L40,62 L18,50 L40,38 Z" fill="#C4D6B0"/>
+</svg>
