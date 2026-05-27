@@ -21,8 +21,8 @@ export default function About() {
             <strong className="text-violet font-semibold">Outplay</strong>, I designed and
             built AI features for B2B sales workflows across North American and Indian markets.
             Most recently, I was a{' '}
-            <strong className="text-violet font-semibold">founding engineer at SureConnect</strong>,
-            where I learned what it really means to go from idea to production.
+            <strong className="text-violet font-semibold">Founding Engineer & AI Consultant at SureConnect</strong>,
+            where I worked directly with stakeholders to scope AI solutions and learned what it really means to go from idea to production.
           </p>
           <p>
             I care about systems that work at scale, decisions that hold up under pressure,

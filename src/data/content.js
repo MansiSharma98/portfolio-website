@@ -65,7 +65,7 @@ export const featuredWriting = [
 ]
 
 export const experience = [
-  { role: "Founding Engineer", company: "SureConnect", period: "2024–present" },
+  { role: "Founding Engineer & AI Consultant", company: "SureConnect", period: "2024–present" },
   { role: "AI Product & Engineering", company: "Outplay", period: "2022–2024" },
   { role: "Software Engineer", company: "Accenture", period: "2020–2022" },
 ]
