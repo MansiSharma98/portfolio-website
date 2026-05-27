@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // For GitHub user pages (username.github.io), set base to '/'
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: '/portfolio-website/',
 })
