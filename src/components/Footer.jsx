@@ -1,8 +1,8 @@
 const LINKS = [
   { label: 'Substack', href: 'https://substack.com/@callingtardis' },
   { label: 'Topmate',  href: 'https://topmate.io/callingtardis' },
-  { label: 'LinkedIn', href: '#' },
-  { label: 'GitHub',   href: '#' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/mansisharma1998/' },
+  { label: 'GitHub',   href: 'https://github.com/MansiSharma98' },
 ]
 
 export default function Footer() {
